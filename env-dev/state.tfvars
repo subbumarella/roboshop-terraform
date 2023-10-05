@@ -1,3 +1,3 @@
-bucket="mysamplebucket"
-key="prod/terraform.tfstate"
+bucket="mybucketown"
+key="dev/terraform.tfstate"
 region="us-east-1"
