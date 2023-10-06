@@ -1,4 +1,4 @@
-environment="dev"
+env="dev"
 component={
     frontend={}
     mongodb={}
