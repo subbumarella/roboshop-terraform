@@ -14,4 +14,4 @@ dev-destroy
 	@rm -rf terraform.tfstate
 	@rm -rf .terraform
 	@terraform init
-	@terraform destroy -auto-approve -var-file=env-prod/main.tfvars
+	@terraform destroy -auto-approve -var-file=env-dev/main.tfvars
